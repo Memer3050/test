@@ -1,0 +1,22 @@
+{
+  "name": "g",
+  "version": "1.0.0",
+  "description": "Originally a test for git because it wasnt working earlier but i fixed it so i dont know what to put here honestly   Ill probabaly put some of my discord bots code here or something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Memer3050/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Memer3050/test/issues"
+  },
+  "homepage": "https://github.com/Memer3050/test#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
